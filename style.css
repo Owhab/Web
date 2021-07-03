@@ -1,0 +1,21 @@
+h1{
+    color: dodgerblue;
+    text-align: center;
+}
+h2{
+    color: orange;
+    text-align: center;
+}
+h3{
+    color: tomato;
+    text-align: center;
+}
+p{
+    background-color: violet;
+    font-size: 25px;
+    text-align: justify;
+    margin: 50px;
+    border: 10px solid mediumseagreen;
+    padding: 10px;
+
+}
